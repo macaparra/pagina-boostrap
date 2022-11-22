@@ -1,0 +1,84 @@
+
+.h1, h1 {
+  font-family: 'Fredoka One', cursive;
+  margin-top: 26px !important;
+  text-align: center;
+  font-size: 45px !important;
+  margin-left: -1px !important;
+  color: #12433d;
+  position: relative;
+  
+}
+
+.text {
+  font-family: 'Fredoka One', cursive;
+  margin-top: 68px !important;
+  text-align: center;
+  font-size: 45px !important;
+  margin-left: -1px !important;
+  color: #12433d;
+  position: relative;
+  
+}
+
+
+
+.display-f {
+  font-family: 'Fredoka One', cursive;
+  font-size: 30px;
+  color: #12433d;
+  margin-left: -14px;
+  margin-bottom: -17px;
+}
+
+.text-title{
+  text-align: center;
+  margin-top: -31px;
+}
+
+  
+.social :hover{
+  opacity: 0.5;
+  cursor: pointer;
+}
+
+.social {
+  width: 100px;
+  height: 100px;
+  margin: 9px;
+  margin-top: -70px;
+  margin-bottom: -8px;
+  border-radius: 1011px;
+  text-align: center;
+  font-size: 31px;
+}
+
+.social img {
+  margin-top: 27px;
+  width: 46px;
+  height: 45px;
+}
+
+.socialIcons {
+  display: flex;
+  justify-content: center;
+  margin-top: 97px;
+  margin-left: -31px;
+}
+  
+.footer-legal{
+  text-align: center;
+  margin-top: -40px;
+  margin-left: -14px;
+}
+
+p {
+  margin-top: 0;
+  margin-bottom: -21rem !important;
+}
+
+@media(max-width:500px){
+  h1.catalog {
+    font-size: 22px !important;
+  }
+}
